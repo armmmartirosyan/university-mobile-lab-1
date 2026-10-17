@@ -17,4 +17,10 @@
     <string name="payment_online">Առցանց վճարում</string>
 
     <string name="save_settings">ՊԱՀՊԱՆԵԼ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ</string>
+
+    <string name="result_not_saved">Տվյալները դեռ չեն պահպանվել</string>
+    <string name="buyer_label">Գնորդ՝</string>
+    <string name="email_label">էլ․ փոստ՝</string>
+
+    <string name="open_help">ԲԱՑԵԼ ՕԳՆՈՒԹՅՈՒՆԸ</string>
 </resources>

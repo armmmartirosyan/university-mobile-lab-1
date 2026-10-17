@@ -99,5 +99,19 @@
             android:layout_marginTop="@dimen/item_spacing"
             android:text="@string/save_settings" />
 
+        <TextView
+            android:id="@+id/resultText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/item_spacing"
+            android:text="@string/result_not_saved" />
+
+        <Button
+            android:id="@+id/helpButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/item_spacing"
+            android:text="@string/open_help" />
+
     </LinearLayout>
 </ScrollView>
