@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Գնումների նախընտրություններ</string>
+
+    <string name="shopping_title">Գնումների նախընտրություններ</string>
+    <string name="buyer_name_hint">Գնորդի անուն և ազգանուն</string>
+    <string name="email_hint">Էլ․ փոստ</string>
+
+    <string name="discount_notifications">Զեղչերի ծանուցումներ</string>
+    <string name="new_product_notifications">Նոր ապրանքների ծանուցումներ</string>
+
+    <string name="delivery">ԱՌԱՔՈՒՄ</string>
+    <string name="self_pickup">ԻՆՔՆԱՍՏԱՑՈՒՄ</string>
+
+    <string name="payment_title">Վճարման նախընտրություն</string>
+    <string name="payment_card">Քարտ</string>
+    <string name="payment_cash">Կանխիկ</string>
+    <string name="payment_online">Առցանց վճարում</string>
+
+    <string name="save_settings">ՊԱՀՊԱՆԵԼ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ</string>
+</resources>
